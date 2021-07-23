@@ -1,0 +1,16 @@
+J:\OnePan\OnePan2\bin\Release\OnePan2.exe.config
+J:\OnePan\OnePan2\bin\Release\OnePan2.exe.manifest
+J:\OnePan\OnePan2\bin\Release\OnePan2.application
+J:\OnePan\OnePan2\bin\Release\OnePan2.exe
+J:\OnePan\OnePan2\bin\Release\OnePan2.pdb
+J:\OnePan\OnePan2\obj\Release\OnePan2.AboutWindow.resources
+J:\OnePan\OnePan2\obj\Release\OnePan2.Board.resources
+J:\OnePan\OnePan2\obj\Release\OnePan2.Form1.resources
+J:\OnePan\OnePan2\obj\Release\OnePan2.Properties.Resources.resources
+J:\OnePan\OnePan2\obj\Release\OnePan2.QuitWindow.resources
+J:\OnePan\OnePan2\obj\Release\OnePan2.csproj.GenerateResource.cache
+J:\OnePan\OnePan2\obj\Release\OnePan2.exe.manifest
+J:\OnePan\OnePan2\obj\Release\OnePan2.application
+J:\OnePan\OnePan2\obj\Release\OnePan2.exe
+J:\OnePan\OnePan2\obj\Release\OnePan2.pdb
+J:\OnePan\OnePan2\obj\Release\OnePan2.csprojAssemblyReference.cache
