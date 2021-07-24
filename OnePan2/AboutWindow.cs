@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OnePan2
+namespace OnePen
 {
     public partial class AboutWindow : Form
     {

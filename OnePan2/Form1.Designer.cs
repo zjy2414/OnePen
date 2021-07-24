@@ -1,4 +1,4 @@
-﻿namespace OnePan2
+﻿namespace OnePen
 {
     partial class Form1
     {
@@ -175,7 +175,7 @@
             // 
             // button14
             // 
-            this.button14.BackgroundImage = global::OnePan2.Properties.Resources.保存;
+            this.button14.BackgroundImage = global::OnePen.Properties.Resources.保存;
             this.button14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button14.Location = new System.Drawing.Point(37, 299);
             this.button14.Name = "button14";
@@ -187,7 +187,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::OnePan2.Properties.Resources.info;
+            this.pictureBox1.BackgroundImage = global::OnePen.Properties.Resources.info;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(37, 349);
             this.pictureBox1.Name = "pictureBox1";
@@ -199,7 +199,7 @@
             // 
             // button12
             // 
-            this.button12.BackgroundImage = global::OnePan2.Properties.Resources.移动;
+            this.button12.BackgroundImage = global::OnePen.Properties.Resources.移动;
             this.button12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button12.Location = new System.Drawing.Point(37, 455);
             this.button12.Name = "button12";
@@ -210,7 +210,7 @@
             // 
             // button4
             // 
-            this.button4.BackgroundImage = global::OnePan2.Properties.Resources.橡皮;
+            this.button4.BackgroundImage = global::OnePen.Properties.Resources.橡皮;
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button4.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button4.Location = new System.Drawing.Point(37, 221);
@@ -222,7 +222,7 @@
             // 
             // QuitButton
             // 
-            this.QuitButton.BackgroundImage = global::OnePan2.Properties.Resources.关闭任务_操作_jurassic;
+            this.QuitButton.BackgroundImage = global::OnePen.Properties.Resources.关闭任务_操作_jurassic;
             this.QuitButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.QuitButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.QuitButton.Location = new System.Drawing.Point(37, 400);
@@ -235,7 +235,7 @@
             // 
             // button2
             // 
-            this.button2.BackgroundImage = global::OnePan2.Properties.Resources.鼠标;
+            this.button2.BackgroundImage = global::OnePen.Properties.Resources.鼠标;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button2.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button2.Location = new System.Drawing.Point(37, 22);
@@ -247,7 +247,7 @@
             // 
             // button1
             // 
-            this.button1.BackgroundImage = global::OnePan2.Properties.Resources.画笔;
+            this.button1.BackgroundImage = global::OnePen.Properties.Resources.画笔;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button1.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button1.Location = new System.Drawing.Point(37, 73);

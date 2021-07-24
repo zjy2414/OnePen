@@ -11,7 +11,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OnePan2
+namespace OnePen
 {
     public partial class Form1 : Form
     {

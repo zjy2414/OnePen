@@ -1,4 +1,4 @@
-﻿namespace OnePan2
+﻿namespace OnePen
 {
     partial class AboutWindow
     {
@@ -60,7 +60,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::OnePan2.Properties.Resources.画笔__1_;
+            this.pictureBox1.Image = global::OnePen.Properties.Resources.画笔__1_;
             this.pictureBox1.Location = new System.Drawing.Point(91, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(196, 177);

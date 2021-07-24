@@ -1,4 +1,4 @@
-﻿namespace OnePan2
+﻿namespace OnePen
 {
     partial class QuitWindow
     {
