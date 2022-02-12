@@ -58,8 +58,8 @@ namespace OnePen
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.TransparencyKey = Color.GreenYellow;
-            this.BackColor = Color.GreenYellow;
+            this.TransparencyKey = Color.AntiqueWhite;
+            this.BackColor = Color.AntiqueWhite;
             FormBorderStyle = FormBorderStyle.None;
         }
 
